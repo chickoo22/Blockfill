@@ -1,0 +1,7 @@
+{
+  "name": "Block Fill",
+  "description": "A relaxing one-line puzzle game where you draw a continuous line from the starting block to fill every square on the board.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
